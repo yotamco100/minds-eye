@@ -1,4 +1,4 @@
-from lang_parser.dir_parser import DirParser
+from parser.dir_parser import DirParser
 from grapher.xmind_grapher import XMindGrapher
 import argparse
 import os
